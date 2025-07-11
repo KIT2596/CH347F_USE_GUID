@@ -1,2 +1,12 @@
 # CH347F_USE_GUID
-CH347F_USE_GUID
+VERSION: 中文
+
+# 工具安装以及准备
+347f 编程器一个
+烧录 夹子，叉子 一个
+测试芯片，主板若干
+软件 asprogrammer 
+```
+https://github.com/therealdreg/asprogrammer-dregmod 
+```
+
