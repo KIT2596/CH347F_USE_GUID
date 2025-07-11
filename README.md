@@ -9,4 +9,5 @@ VERSION: 中文
 ```
 https://github.com/therealdreg/asprogrammer-dregmod 
 ```
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/52448e90-59cb-4d61-a297-1c3dc7b57218" />
 
