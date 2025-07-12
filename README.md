@@ -70,6 +70,18 @@ typec+typeb
 
 
 ### 读取固件
+<img width="862" height="593" alt="image" src="https://github.com/user-attachments/assets/f56f59b0-91ea-4985-8c10-71a661f1bc86" />
+
+<img width="861" height="602" alt="image" src="https://github.com/user-attachments/assets/162a3a22-4923-4160-8e93-2a4a19a72249" />
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/d663b378-6d4f-45b0-8ef8-437f11c0622f" />
+
+<img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/032046f2-31ef-4e47-b599-7fa658f94e34" />
+
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/15023a4b-5a36-4b09-ab83-dfc256361f4e" />
+
+<img width="764" height="275" alt="image" src="https://github.com/user-attachments/assets/963d5ad3-e4dc-493e-a3b0-d7f2942eae2b" />
+
 
 ### 烧录固件
 
