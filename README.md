@@ -23,14 +23,12 @@ https://github.com/therealdreg/asprogrammer-dregmod
 <img width="1366" height="588" alt="image" src="https://github.com/user-attachments/assets/bafbc5cf-4c4b-4a48-8e5a-c45432049cbf" />
 
 安装
-
 <img width="1268" height="518" alt="image" src="https://github.com/user-attachments/assets/64aa26cf-4474-46a1-8598-5024c6183cfc" />
-双击打开 点击安装
 
+双击打开 点击安装
 <img width="1217" height="691" alt="image" src="https://github.com/user-attachments/assets/166d634a-663d-441d-991e-8203f96fe042" />
 
 插上设备后出现 设备图标
-
 <img width="587" height="525" alt="image" src="https://github.com/user-attachments/assets/f82ce345-53c2-4b72-87af-fcc96bce639f" />
 
 # 设备介绍
