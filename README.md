@@ -1,3 +1,4 @@
+# ch347f 基本使用
 # CH347F_USE_GUID
 VERSION: 中文
 
