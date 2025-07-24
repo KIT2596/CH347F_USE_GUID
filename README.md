@@ -1,3 +1,5 @@
+官方教程 https://github.com/WCHSoftGroup/ch347/tree/main/OpenOCD_CH347
+
 # ch347f 基本使用
 # CH347F_USE_GUID
 VERSION: 中文
