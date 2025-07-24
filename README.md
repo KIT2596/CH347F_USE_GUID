@@ -1,4 +1,9 @@
 官方教程 https://github.com/WCHSoftGroup/ch347/tree/main/OpenOCD_CH347
+ch347f i2c教程 (ch347 i2c programguid) 
+```
+https://blog.csdn.net/WCH_TechGroup/article/details/130093377
+```
+
 
 # ch347f 基本使用
 # CH347F_USE_GUID
